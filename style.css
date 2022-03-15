@@ -49,13 +49,16 @@ nav{
     font-family:sans-serif;
 }
 .fHeader{
-    color:#303841;
+    color:rgb(48, 56, 65);
+    text-shadow:5px 5px rgba(48, 56, 65, 0.4);
 }
 .sHeader{
-    color:#0B5351;
+    color:rgb(11, 81, 79);
+    text-shadow:5px 5px rgba(11, 81, 79, 0.4);
 }
 .tHeader{
-    color:#00A9A5;
+    color:rgb(0, 169, 165);
+    text-shadow:5px 5px rgba(0, 169, 165, 0.4);
 }
 .banner-svg{
     max-width:100%;
